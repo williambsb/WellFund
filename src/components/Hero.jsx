@@ -1,6 +1,7 @@
 const Hero = () => {
   return (
     <div className="py-24 px-6 text-center bg-white">
+    
         <h1 className="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">
             <span className="capitalize">Bring Creative Projects to life on</span>
             <br />
